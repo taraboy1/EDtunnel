@@ -1,4 +1,4 @@
-name = "trojan-cf" # todo
+name = "trojan-cf" # tara
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -13,4 +13,4 @@ compatibility_date = "2023-05-26"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
 PASSWORD = "SFVT"
-PROXYIP = "178.128.61.238"
+PROXYIP = "168.138.185.224"
